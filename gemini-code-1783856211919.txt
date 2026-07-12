@@ -1,0 +1,19 @@
+Act as an expert front-end web developer. Build a single-file website using HTML only (with internal CSS for a modern, clean, and elegant fashion boutique design). 
+
+The website is for a clothing shop named "Aaru's Ladies Fashion". 
+
+Please include the following details and sections:
+1. Navigation Bar: Must be sticky/fixed at the top and include clickable links that smooth-scroll to sections: Home, About, Staff, and Contact.
+2. Home/Hero Section: A beautiful welcoming header for "Aaru's Ladies Fashion" with a stylish tagline and a "Shop Collection" button.
+3. About/Information Section: Showcase that the shop offers a wide variety of women's apparel, specifically highlighting: Shirts, T-shirts, Trousers, Jeans, Kurtis, and more. Organize this visually using clean cards or a grid layout.
+4. Staff Section: Display the team professionally using a grid structure:
+   - Owner: Aaradhya Patil
+   - Manager: Rima Powar
+   - Staff Members: Sanika Chavan & Anvi Patil
+5. Contact Section: A simple, clean footer/contact area with a placeholder form or contact details.
+
+Design Requirements:
+- Use a feminine, elegant color palette suited for a ladies' fashion boutique (e.g., soft pinks, rose gold, white, and charcoal text).
+- Use modern sans-serif fonts and ensure ample spacing (padding/margins) so the site feels premium and easy to read.
+- Ensure the layout is fully responsive so it looks great on both mobile phones and desktops.
+- Provide the complete code inside a single code block as index.html.
